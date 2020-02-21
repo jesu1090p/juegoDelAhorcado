@@ -1,2 +1,0 @@
-# juegoDelAhorcado
-Created with CodeSandbox
